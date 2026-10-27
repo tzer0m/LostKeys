@@ -1,6 +1,6 @@
 # LostKeys
 
-[![Deploy](https://github.com/tzer0m/LostKeys/actions/workflows/deploy.yml/badge.svg)](https://github.com/tzer0m/LostKeys/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/tzer0m/LostKeys/actions/workflows/deploy.yml/badge.svg)](https://github.com/tzer0m/LostKeys/actions/workflows/deploy.yml) [![Dependabot](https://github.com/tzer0m/LostKeys/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/tzer0m/LostKeys/actions/workflows/dependabot/dependabot-updates)
 
 Help keys get back to their owners. A tiny landing page for a keyring tag: if someone finds a lost keyring with an NFC tag linking to this site's URL and a phone number in the query string, they land on a page with a tap-to-call link.
 
